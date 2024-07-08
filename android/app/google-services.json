@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657668157743",
+    "project_id": "kitap-rotam",
+    "storage_bucket": "kitap-rotam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657668157743:android:eb7039ccba049c3e30b1da",
+        "android_client_info": {
+          "package_name": "com.example.kitap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWjCvDCTdRwZzviz28G23AfaSNqHmG-DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
